@@ -22,7 +22,7 @@ Ensemble Classifiers: Our engine is revved-up with Random Forests, AdaBoost, and
 SHAP: SHAP (SHapley Additive exPlanations) lights the way 🌟 by explaining the output of our machine learning model.
 Seaborn and Matplotlib: Our artists 🎨 behind those beautiful plots and visualizations.
 ⚙️ The System Diagram
-`
+```
 +--------------------+
 | Input Data         |
 | (Name, Description,|
@@ -50,7 +50,7 @@ Seaborn and Matplotlib: Our artists 🎨 behind those beautiful plots and visual
 | Reports (AUC-ROC, SHAP, Confusion|
 |       Matrix, Classification)    |
 +----------------------------------+
-`
+```
 ####🏁 Getting Started
 Just feed in your Data into the main(data) function, and it's Showtime! 🎬 The script will take the raw text data, transform it, predict the verticals, and conjure up visualizations that you can brag about in meetings! 😎
 
